@@ -1,6 +1,6 @@
-# Foundation: An Economic Simulation Framework
+# Foundation: An Economic Simulation Framework MMT Version
 
-This repo contains an implementation of Foundation, a framework for flexible, modular, and composable environments that **model socio-economic behaviors and dynamics in a society with both agents and governments**.
+This repo contains an implementation of Foundation, a framework for flexible, modular, and composable environments that **model socio-economic behaviors and dynamics in a society with both agents and governments**. The original implementation of Foundation assumes that today's monetary policy is metallic. However, this does not correspond to reality, as the Bretton Woods system ended in 1971 when the United States abandoned its gold standard. From that point on, the framework conditions for a chartist monetary policy were in place. The implementation is completed in this Foundation version.
 
 Foundation provides a [Gym](https://gym.openai.com/)-style API:
 
