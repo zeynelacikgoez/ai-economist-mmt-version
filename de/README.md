@@ -43,8 +43,6 @@ Bitte sehen Sie sich unsere [Simulationskarte](https://github.com/salesforce/ai-
 
 Bitte sehen Sie sich unsere [COVID-19 Simulationskarte](https://github.com/salesforce/ai-economist/blob/master/COVID-19_Simulation-Card.pdf) für eine Überprüfung der ethischen Aspekte der Pandemiesimulation (und wie sie für COVID-19 angepasst wurde) an.
 
-Hier ist die Übersetzung des Textes ins Deutsche:
-
 ---
 
 ## Treten Sie uns auf Slack bei
